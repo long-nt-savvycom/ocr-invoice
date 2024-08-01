@@ -1,0 +1,34 @@
+{
+  "ship_from_name": "Gessi",
+  "receiver_name": "B.S.C. BUILDING MATERIALS SUPPLY",
+  "receiver_address": "291 WING NING LANE, WANG TOI SHAN 00000 YUEN LONG L HONG KONG",
+  "invoice_type": "other",
+  "supplier_name": "Gessi SpA",
+  "supplier_full_name": "Gessi S.p.A.",
+  "supplier_phone": "+39 0163 454111",
+  "supplier_secondary_phone": "0163 454111",
+  "supplier_address": "Parco Gessi 13037 Serravalle Sesia VC Italy",
+  "supplier_secondary_address": "13037 Serravalle Sesia (VC) Italy",
+  "supplier_tax_id": "IT02235360027",
+  "supplier_website": "www.gessi.com",
+  "supplier_email": "gessi@gessi.it",
+  "ship_to_name": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.",
+  "ship_to_address": "WING NING LANE, WANG TOI SHAN, 291 00000 YUEN LONG HK (HONG KONG)",
+  "invoice_id": "2023/1400004986",
+  "invoice_date": "2023-03-20",
+  "payment_terms": "BT 60 DAYS INV DATE",
+  "purchase_order": "90375236",
+  "supplier_iban": "IT92A0503444310000000003302",
+  "line_items": [
+    {
+      "quantity": 5,
+      "description": "Basin mixer, flexible connections, without waste Warm Bronze Br. PVD (VIA MANZONI)",
+      "unit_price": 100.74,
+      "amount": 503.71
+    }
+  ],
+  "due_date": "2023-05-19",
+  "net_amount": 503.71,
+  "total_amount": 503.71,
+  "currency": "EUR"
+}

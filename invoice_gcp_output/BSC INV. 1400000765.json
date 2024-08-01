@@ -1,0 +1,155 @@
+{
+  "supplier": {
+    "name": "Gessi S.p.A.",
+    "phone": "+39 0163 454111",
+    "address": "Parco Gessi, 13037 Serravalle Sesia VC, Italy",
+    "email": "gessi@gessi.it",
+    "website": "www.gessi.com"
+  },
+  "carrier": "Air",
+  "invoice_type": "invoice_statement",
+  "invoice_id": "2023",
+  "invoice_date": "2023-1-13",
+  "payment_terms": "BT 60 DAYS INV DATE",
+  "line_items": [
+    {
+      "description": "1,50 m Cromalux flexible hose with conic 1/2\" connections Finox Brushed Nickel (ACCESSORI TECNICI) EAN: 8022692785104",
+      "quantity": 18,
+      "unit_price": 18.74,
+      "amount": 337.39
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -33.74
+    },
+    {
+      "amount": 303.65
+    },
+    {
+      "description": "1,50 m Cromalux flexible hose with conic 1/2\" connections Black Metal Brushed (ACCESSORI TECNICI) EAN: 8022692655407",
+      "quantity": 40,
+      "amount": 992.64
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -99.26
+    },
+    {
+      "amount": 893.38
+    },
+    {
+      "description": "1,50 m Cromalux flexible hose with conic 1/2\" connections Antique Brass (ACCESSORI TECNICI) EAN: 8022692689044",
+      "quantity": 12,
+      "unit_price": 34.32,
+      "amount": 411.84
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -41.18
+    },
+    {
+      "amount": 370.66
+    },
+    {
+      "description": "Medium version three-holes basin mixer, with flexible hoses with waste Antique Brass (INCISO X) EAN: 8056329699250",
+      "quantity": 2,
+      "unit_price": 478.63,
+      "amount": 957.26
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -95.73
+    },
+    {
+      "amount": 861.53
+    },
+    {
+      "description": "basin waste \"Stop&Go\", with overflow Brushed Brass PVD (ACCESSORI TECNICI)",
+      "quantity": 12,
+      "unit_price": 48.84,
+      "amount": 586.08
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -58.61
+    },
+    {
+      "amount": 527.47
+    },
+    {
+      "description": "Cromalux flexible hose with conic 1/2\" connections Brushed Brass PVD (ACCESSORI TECNICI) EAN: 8056329037441",
+      "quantity": 13,
+      "unit_price": 24.82,
+      "amount": 322.61
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -32.26
+    },
+    {
+      "amount": 290.35
+    },
+    {
+      "description": "Three-holes basin mixer, with flexible hoses with waste Black Metal Brushed (RILIEVO) EAN: 80563296993",
+      "quantity": 5,
+      "unit_price": 297.53,
+      "amount": 1487.64
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -148.76
+    },
+    {
+      "amount": 1338.88
+    },
+    {
+      "description": "Three-setting antilimestone handshower with white insert Black Metal Brushed (ACCESSORI TECNICI) EAN: 8056329698628",
+      "quantity": 45,
+      "unit_price": 66.79,
+      "amount": 3005.64
+    },
+    {
+      "description": "EXTRA DISCOUNT 10,0 %",
+      "amount": -300.56
+    },
+    {
+      "amount": 2705.08
+    },
+    {
+      "description": "CEILING-MOUNTED ADJUSTABLE AND Brushed Brass PVD (RILIEVO) EAN: 8056603470049 EXTRA DISCOUNT 10,0 %",
+      "quantity": 5,
+      "unit_price": 296.74,
+      "amount": 1483.68
+    },
+    {
+      "amount": -148.37
+    },
+    {
+      "amount": 1335.31
+    },
+    {
+      "description": "Antilimestone handshower. Finox Brushed Nickel (ACCESSORI TECNICI)",
+      "quantity": 24,
+      "unit_price": 42.24,
+      "amount": 1013.76
+    },
+    {
+      "amount": 1858.04,
+      "quantity": 83
+    },
+    {
+      "amount": 5629.22,
+      "quantity": 87
+    },
+    {
+      "amount": 2200.41,
+      "quantity": 7
+    }
+  ],
+  "vat": {
+    "amount": 10215.14
+  },
+  "due_date": "2023-3-14",
+  "net_amount": 10215.14,
+  "total_amount": 10215.14
+}

@@ -1,0 +1,37 @@
+{
+  "supplier_name": "Cargo Compass (Hong Kong) Ltd",
+  "supplier_full_name": "Cargo Compass",
+  "supplier_address": "Unit B1, 27/F., TML Tower, 3 Hoi Shing Road, Tsuen Wan, New Territories, Hong Kong",
+  "supplier_phone": "(852) 21168388",
+  "supplier_email": "info@cargocompass.com.hk",
+  "invoice_date": "2023-01-28",
+  "receiver_address": "ON YIP STREET, CHAI WAN, HONG KONG",
+  "invoice_type": "receipt_statement",
+  "currency": "CHGS WYRNAL",
+  "line_items": [
+    {
+      "description": "CM",
+      "unit": "CM"
+    },
+    {
+      "description": "CM",
+      "unit": "CM"
+    },
+    {
+      "description": "CM",
+      "unit": "CM"
+    },
+    {
+      "description": "CM",
+      "unit": "CM"
+    },
+    {
+      "description": "CM",
+      "unit": "CM"
+    },
+    {
+      "description": "CM",
+      "unit": "CM"
+    }
+  ]
+}

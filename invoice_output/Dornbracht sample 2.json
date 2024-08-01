@@ -1,0 +1,173 @@
+{
+    "Invoice_4": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "19 TH"
+            },
+            "confidence": 0.82
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO. LTD.",
+            "confidence": 0.873
+        },
+        "CustomerId": {
+            "value": "185909",
+            "confidence": 0.928
+        },
+        "CustomerName": {
+            "value": "MATERIALS",
+            "confidence": 0.306
+        },
+        "InvoiceDate": {
+            "value": "2023-10-18",
+            "confidence": 0.936
+        },
+        "InvoiceId": {
+            "value": "PI-0136175",
+            "confidence": 0.84
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 1160.64,
+                "symbol": null
+            },
+            "confidence": 0.91
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1160.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                },
+                "Description": {
+                    "value": "3570797090",
+                    "confidence": 0.814
+                },
+                "Quantity": {
+                    "value": 16.0,
+                    "confidence": 0.745
+                },
+                "Unit": {
+                    "value": "pc",
+                    "confidence": 0.831
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 72.54,
+                        "symbol": null
+                    },
+                    "confidence": 0.843
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "DE86445800700703322900",
+                    "confidence": 0.901
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.698
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "4458 0070",
+                    "confidence": 0.497
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.664
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "00",
+                    "confidence": 0.499
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "DE86 4458 0070 0703 3229 00",
+                    "confidence": 0.869
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.944
+                }
+            }
+        ],
+        "PurchaseOrder": {
+            "value": "73A-2023-25554 (AIR)",
+            "confidence": 0.819
+        },
+        "ServiceAddressRecipient": {
+            "value": "B.S.C. BUILDING\nSUPPLY CO. LTD.",
+            "confidence": 0.21
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "19 TH"
+            },
+            "confidence": 0.819
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS\nSUPPLY CO., LTD.",
+            "confidence": 0.878
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 1160.64,
+                "symbol": null
+            },
+            "confidence": 0.463
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "6",
+                "po_box": null,
+                "road": "K\u00f6bbingser M\u00fchle",
+                "city": "Iserlohn",
+                "state": null,
+                "postal_code": "D-58640",
+                "country_region": null,
+                "street_address": "6 K\u00f6bbingser M\u00fchle"
+            },
+            "confidence": 0.865
+        },
+        "VendorAddressRecipient": {
+            "value": "Dornbracht AG & Co. KG",
+            "confidence": 0.886
+        },
+        "VendorName": {
+            "value": "DORN\nBRACHT",
+            "confidence": 0.788
+        },
+        "PaymentTerm": {
+            "value": "60 days net\n10 days 3% discount",
+            "confidence": 0.496
+        },
+        "VendorTaxId": {
+            "value": "32857110245",
+            "confidence": 0.438
+        }
+    }
+}

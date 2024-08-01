@@ -1,0 +1,327 @@
+{
+    "Invoice_2": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": "00000",
+                "po_box": null,
+                "road": "CHAI WAN HK",
+                "city": "HONG",
+                "state": "KONG",
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "00000 CHAI WAN HK"
+            },
+            "confidence": 0.82
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.702
+        },
+        "CustomerId": {
+            "value": "1000000903",
+            "confidence": 0.93
+        },
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.702
+        },
+        "InvoiceDate": {
+            "value": "2023-01-31",
+            "confidence": 0.939
+        },
+        "InvoiceId": {
+            "value": "1400001802",
+            "confidence": 0.938
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 8710.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "Rotating sink mixer with extractable double jet\nhandshower\nChrome (OXYGENE SIDE LEVER)\nEAN: 8056329177123\nEU CN:\n84818011",
+                    "confidence": 0.774
+                },
+                "ProductCode": {
+                    "value": "50317\n031",
+                    "confidence": 0.922
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 174.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6445.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "Rotating sink mixer with extractable double jet\nhandshower\nChrome (OXYGENE SIDE LEVER)\nEAN: 8056329177123\nEU CN:\n84818011",
+                    "confidence": 0.775
+                },
+                "ProductCode": {
+                    "value": "50317\n031",
+                    "confidence": 0.926
+                },
+                "Quantity": {
+                    "value": 37.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 174.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)\nEAN: 8056329030114\nEU CN:\n84248970",
+                    "confidence": 0.724
+                },
+                "ProductCode": {
+                    "value": "59145\n726",
+                    "confidence": 0.923
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6276.44,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)\nEAN: 8056329030114\nEU CN:\n84248970",
+                    "confidence": 0.724
+                },
+                "ProductCode": {
+                    "value": "59145\n726",
+                    "confidence": 0.923
+                },
+                "Quantity": {
+                    "value": 52.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 12081.96,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "External bath mixer with automatic bath/shower\ndiverter\nWarm Bronze Br. PVD (VIA MANZONI)\nEAN: 8056603445528\nEU CN:\n84818011",
+                    "confidence": 0.719
+                },
+                "ProductCode": {
+                    "value": "38613\n726",
+                    "confidence": 0.922
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 241.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 12081.96,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "External bath mixer with automatic bath/shower\ndiverter\nWarm Bronze Br. PVD (VIA MANZONI)\nEAN: 8056603445528\nEU CN:\n84818011",
+                    "confidence": 0.681
+                },
+                "ProductCode": {
+                    "value": "38613\n726",
+                    "confidence": 0.923
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 241.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 12311.48,
+                        "symbol": null
+                    },
+                    "confidence": 0.477
+                },
+                "ProductCode": {
+                    "value": "84248970",
+                    "confidence": 0.625
+                },
+                "Quantity": {
+                    "value": 102.0,
+                    "confidence": 0.78
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 39319.32,
+                        "symbol": null
+                    },
+                    "confidence": 0.464
+                },
+                "ProductCode": {
+                    "value": "84818011",
+                    "confidence": 0.626
+                },
+                "Quantity": {
+                    "value": 187.0,
+                    "confidence": 0.775
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.967
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.87
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.915
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.8
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "BT 60 DAYS INV DATE",
+            "confidence": 0.644
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": "291",
+                "po_box": null,
+                "road": "WING NING LANE, WANG TOI SHAN",
+                "city": "YUEN LONG",
+                "state": "HONG KONG",
+                "postal_code": "00000",
+                "country_region": "HK",
+                "street_address": "291 WING NING LANE, WANG TOI SHAN"
+            },
+            "confidence": 0.832
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.,",
+            "confidence": 0.886
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": "fraz. vintebbio parco gessi",
+                "city": "Serravalle Sesia",
+                "state": null,
+                "postal_code": "13037",
+                "country_region": "Italy",
+                "street_address": "fraz. vintebbio parco gessi"
+            },
+            "confidence": 0.866
+        },
+        "VendorAddressRecipient": {
+            "value": "Gessi SpA",
+            "confidence": 0.814
+        },
+        "VendorName": {
+            "value": "GESSI",
+            "confidence": 0.92
+        },
+        "VendorTaxId": {
+            "value": "IT02235360027",
+            "confidence": 0.658
+        },
+        "DueDate": {
+            "value": "2023-04-01",
+            "confidence": 0.416
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 51630.8,
+                "symbol": "\u20ac"
+            },
+            "confidence": 0.521
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 51630.8,
+                "symbol": null
+            },
+            "confidence": 0.536
+        }
+    }
+}

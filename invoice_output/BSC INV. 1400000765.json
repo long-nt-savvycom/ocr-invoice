@@ -1,0 +1,387 @@
+{
+    "Invoice_2": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": "00000",
+                "po_box": null,
+                "road": "CHAI WAN HK",
+                "city": "HONG",
+                "state": "KONG",
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "00000 CHAI WAN HK"
+            },
+            "confidence": 0.826
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.647
+        },
+        "CustomerId": {
+            "value": "1000000903",
+            "confidence": 0.938
+        },
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.647
+        },
+        "InvoiceDate": {
+            "value": "2023-01-13",
+            "confidence": 0.945
+        },
+        "InvoiceId": {
+            "value": "1400000765",
+            "confidence": 0.939
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 337.39,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                },
+                "Description": {
+                    "value": "1,50 m Cromalux flexible hose with conic 1/2\"\nconnections\nFinox Brushed Nickel (ACCESSORI TECNICI)\nEAN: 8022692785104",
+                    "confidence": 0.8
+                },
+                "ProductCode": {
+                    "value": "01637\n149",
+                    "confidence": 0.938
+                },
+                "Quantity": {
+                    "value": 18.0,
+                    "confidence": 0.946
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 18.74,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 992.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                },
+                "Description": {
+                    "value": "1,50 m Cromalux flexible hose with conic 1/2\"\nconnections\nBlack Metal Brushed (ACCESSORI TECNICI)\nEAN: 8022692655407",
+                    "confidence": 0.733
+                },
+                "ProductCode": {
+                    "value": "01637\n707",
+                    "confidence": 0.938
+                },
+                "Quantity": {
+                    "value": 40.0,
+                    "confidence": 0.945
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 24.82,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 411.84,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                },
+                "Description": {
+                    "value": "1,50 m Cromalux flexible hose with conic 1/2\"\nconnections\nAntique Brass (ACCESSORI TECNICI)\nEAN: 8022692689044",
+                    "confidence": 0.789
+                },
+                "ProductCode": {
+                    "value": "01637\n713",
+                    "confidence": 0.938
+                },
+                "Quantity": {
+                    "value": 12.0,
+                    "confidence": 0.945
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 34.32,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 957.26,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                },
+                "Description": {
+                    "value": "Medium version three-holes basin mixer, with flexible\nhoses with waste\nAntique Brass (INCISO X)\nEAN: 8056329699250",
+                    "confidence": 0.796
+                },
+                "ProductCode": {
+                    "value": "58113\n713",
+                    "confidence": 0.936
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.945
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 478.63,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 586.08,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                },
+                "Description": {
+                    "value": "basin waste \"Stop&Go\", with overflow\nBrushed Brass PVD (ACCESSORI TECNICI)",
+                    "confidence": 0.938
+                },
+                "ProductCode": {
+                    "value": "01408\n727",
+                    "confidence": 0.937
+                },
+                "Quantity": {
+                    "value": 12.0,
+                    "confidence": 0.945
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 48.84,
+                        "symbol": null
+                    },
+                    "confidence": 0.945
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 322.61,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                },
+                "Description": {
+                    "value": "1,50 m Cromalux flexible hose with conic 1/2\"\nconnections\nBrushed Brass PVD (ACCESSORI TECNICI)",
+                    "confidence": 0.736
+                },
+                "ProductCode": {
+                    "value": "01637\n727",
+                    "confidence": 0.631
+                },
+                "Quantity": {
+                    "value": 13.0,
+                    "confidence": 0.944
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 24.82,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1487.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                },
+                "Description": {
+                    "value": "Three-holes basin mixer , with flexible hoses with\nwaste\nBlack Metal Brushed (RILIEVO)",
+                    "confidence": 0.767
+                },
+                "ProductCode": {
+                    "value": "59011\n707",
+                    "confidence": 0.631
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.944
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 297.53,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 3005.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                },
+                "Description": {
+                    "value": "Three-setting antilimestone handshower with white\ninsert\nBlack Metal Brushed (ACCESSORI TECNICI)\nEAN: 8056329698628\nDISCOUNT 10,0",
+                    "confidence": 0.088
+                },
+                "ProductCode": {
+                    "value": "38773\n707",
+                    "confidence": 0.59
+                },
+                "Quantity": {
+                    "value": 45.0,
+                    "confidence": 0.944
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 66.79,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1483.68,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                },
+                "Description": {
+                    "value": "CEILING-MOUNTED ADJUSTABLE AND Brushed Brass\nPVD (RILIEVO)\nEAN: 8056603470049\n10,0",
+                    "confidence": 0.15
+                },
+                "ProductCode": {
+                    "value": "59154\n727",
+                    "confidence": 0.588
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.943
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 296.74,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1013.76,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                },
+                "Description": {
+                    "value": "Antilimestone handshower.\nFinox Brushed Nickel (ACCESSORI TECNICI)",
+                    "confidence": 0.719
+                },
+                "ProductCode": {
+                    "value": "14372\n149",
+                    "confidence": 0.579
+                },
+                "Quantity": {
+                    "value": 24.0,
+                    "confidence": 0.94
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 42.24,
+                        "symbol": null
+                    },
+                    "confidence": 0.944
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.964
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.821
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.966
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.854
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "BT 60 DAYS INV DATE",
+            "confidence": 0.711
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": "291",
+                "po_box": null,
+                "road": "WING NING LANE, WANG TOI SHAN",
+                "city": "YUEN LONG",
+                "state": "HONG KONG",
+                "postal_code": "00000",
+                "country_region": "HK",
+                "street_address": "291 WING NING LANE, WANG TOI SHAN"
+            },
+            "confidence": 0.839
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.,",
+            "confidence": 0.886
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": "fraz. vintebbio parco gessi",
+                "city": "Serravalle Sesia",
+                "state": null,
+                "postal_code": "13037",
+                "country_region": "Italy",
+                "street_address": "fraz. vintebbio parco gessi"
+            },
+            "confidence": 0.865
+        },
+        "VendorAddressRecipient": {
+            "value": "Gessi SpA",
+            "confidence": 0.919
+        },
+        "VendorName": {
+            "value": "GESSI",
+            "confidence": 0.92
+        },
+        "VendorTaxId": {
+            "value": "IT02235360027",
+            "confidence": 0.657
+        }
+    }
+}

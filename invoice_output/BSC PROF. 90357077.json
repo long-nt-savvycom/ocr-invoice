@@ -1,0 +1,149 @@
+{
+    "Invoice_1": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": "00000",
+                "po_box": null,
+                "road": "CHAI WAN HK",
+                "city": "HONG",
+                "state": "KONG",
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "00000 CHAI WAN HK"
+            },
+            "confidence": 0.826
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.556
+        },
+        "CustomerId": {
+            "value": "1000000903",
+            "confidence": 0.93
+        },
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.556
+        },
+        "InvoiceDate": {
+            "value": "2023-01-13",
+            "confidence": 0.942
+        },
+        "InvoiceId": {
+            "value": "90357077",
+            "confidence": 0.94
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 113.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.95
+                },
+                "Description": {
+                    "value": "Basin mixer, flexible connections, without waste. \u00d825\nmm cartridge\nWarm Bronze Br. PVD (RILIEVO)",
+                    "confidence": 0.805
+                },
+                "ProductCode": {
+                    "value": "59002\n726",
+                    "confidence": 0.722
+                },
+                "Quantity": {
+                    "value": 1.0,
+                    "confidence": 0.949
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 113.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.949
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 116.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.95
+                },
+                "Description": {
+                    "value": "Wall-mounted robe hook\nChrome (ELEGANZA ACCESSORI)",
+                    "confidence": 0.812
+                },
+                "ProductCode": {
+                    "value": "46521\n031",
+                    "confidence": 0.717
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.949
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 29.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.949
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.96
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.855
+                }
+            }
+        ],
+        "ShippingAddress": {
+            "value": {
+                "house_number": "291",
+                "po_box": null,
+                "road": "WING NING LANE, WANG TOI SHAN",
+                "city": "YUEN LONG",
+                "state": "HONG KONG",
+                "postal_code": "00000",
+                "country_region": "HK",
+                "street_address": "291 WING NING LANE, WANG TOI SHAN"
+            },
+            "confidence": 0.837
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.,",
+            "confidence": 0.887
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": "fraz. vintebbio parco gessi",
+                "city": "Serravalle Sesia",
+                "state": null,
+                "postal_code": "13037",
+                "country_region": "Italy",
+                "street_address": "fraz. vintebbio parco gessi"
+            },
+            "confidence": 0.865
+        },
+        "VendorAddressRecipient": {
+            "value": "Gessi SpA",
+            "confidence": 0.923
+        },
+        "VendorName": {
+            "value": "GESSI",
+            "confidence": 0.821
+        },
+        "VendorTaxId": {
+            "value": "IT02235360027",
+            "confidence": 0.653
+        }
+    }
+}

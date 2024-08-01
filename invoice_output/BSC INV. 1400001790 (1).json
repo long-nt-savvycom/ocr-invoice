@@ -1,0 +1,415 @@
+{
+    "Invoice_2": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": "00000",
+                "po_box": null,
+                "road": "CHAI WAN HK",
+                "city": "HONG",
+                "state": "KONG",
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "00000 CHAI WAN HK"
+            },
+            "confidence": 0.839
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.614
+        },
+        "CustomerId": {
+            "value": "1000000903",
+            "confidence": 0.93
+        },
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.614
+        },
+        "InvoiceDate": {
+            "value": "2023-01-31",
+            "confidence": 0.94
+        },
+        "InvoiceId": {
+            "value": "1400001790",
+            "confidence": 0.927
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 8710.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "Rotating sink mixer with extractable double jet\nhandshower\nChrome (OXYGENE SIDE LEVER)\nEAN: 8056329177123\nEU CN:\n84818011",
+                    "confidence": 0.582
+                },
+                "ProductCode": {
+                    "value": "50317\n031",
+                    "confidence": 0.681
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.937
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 174.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 8710.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "Rotating sink mixer with extractable double jet\nhandshower\nChrome (OXYGENE SIDE LEVER)\nEAN: 8056329177123\nEU CN:\n84818011",
+                    "confidence": 0.512
+                },
+                "ProductCode": {
+                    "value": "50317\n031",
+                    "confidence": 0.707
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.937
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 174.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 8710.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.936
+                },
+                "Description": {
+                    "value": "Rotating sink mixer with extractable double jet\nhandshower\nChrome (OXYGENE SIDE LEVER)\nEAN: 8056329177123\nEU CN:",
+                    "confidence": 0.427
+                },
+                "ProductCode": {
+                    "value": "50317\n031",
+                    "confidence": 0.676
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.937
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 174.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)\nEAN:",
+                    "confidence": 0.618
+                },
+                "ProductCode": {
+                    "value": "59145\n726",
+                    "confidence": 0.591
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.937
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)\nEAN: 8056329030114",
+                    "confidence": 0.614
+                },
+                "ProductCode": {
+                    "value": "59145\n726",
+                    "confidence": 0.59
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.935
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)",
+                    "confidence": 0.681
+                },
+                "ProductCode": {
+                    "value": "59145",
+                    "confidence": 0.937
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.939
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)",
+                    "confidence": 0.681
+                },
+                "ProductCode": {
+                    "value": "59145",
+                    "confidence": 0.937
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.939
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)",
+                    "confidence": 0.721
+                },
+                "ProductCode": {
+                    "value": "59145",
+                    "confidence": 0.937
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.939
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 6035.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "Sliding rail with antilimestone handshower and 1,50 m\nflexible hose.\nWarm Bronze Br. PVD (RILIEVO)",
+                    "confidence": 0.679
+                },
+                "ProductCode": {
+                    "value": "59145",
+                    "confidence": 0.937
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 120.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 13875.84,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                },
+                "Description": {
+                    "value": "MISCELATORE VASCA Warm Bronze Br. PVD (VIA\nMANZONI)",
+                    "confidence": 0.921
+                },
+                "ProductCode": {
+                    "value": "38623",
+                    "confidence": 0.935
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.939
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 277.52,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 12081.96,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                },
+                "Description": {
+                    "value": "External bath mixer with automatic bath/shower\ndiverter\nWarm Bronze Br. PVD (VIA MANZONI)",
+                    "confidence": 0.629
+                },
+                "ProductCode": {
+                    "value": "38613",
+                    "confidence": 0.936
+                },
+                "Quantity": {
+                    "value": 50.0,
+                    "confidence": 0.938
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 241.64,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.969
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.875
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.966
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.884
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "BT 60 DAYS INV DATE",
+            "confidence": 0.645
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": "291",
+                "po_box": null,
+                "road": "WING NING LANE, WANG TOI SHAN",
+                "city": "YUEN LONG",
+                "state": "HONG KONG",
+                "postal_code": "00000",
+                "country_region": "HK",
+                "street_address": "291 WING NING LANE, WANG TOI SHAN"
+            },
+            "confidence": 0.833
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.,",
+            "confidence": 0.885
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": "fraz. vintebbio parco gessi",
+                "city": "Serravalle Sesia",
+                "state": null,
+                "postal_code": "13037",
+                "country_region": "Italy",
+                "street_address": "fraz. vintebbio parco gessi"
+            },
+            "confidence": 0.866
+        },
+        "VendorAddressRecipient": {
+            "value": "Gessi SpA",
+            "confidence": 0.894
+        },
+        "VendorName": {
+            "value": "GESSI",
+            "confidence": 0.921
+        },
+        "VendorTaxId": {
+            "value": "IT02235360027",
+            "confidence": 0.656
+        }
+    }
+}

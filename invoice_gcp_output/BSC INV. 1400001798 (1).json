@@ -1,0 +1,42 @@
+{
+  "supplier": {
+    "name": "Gessi S.p.A.",
+    "phone": "+39 0163 454111",
+    "address": "Parco Gessi, 13037 Serravalle Sesia VC, Italy",
+    "tax_id": "IT02235360027",
+    "email": "gessi@gessi.it",
+    "website": "www.gessi.com",
+    "iban": "IT92A0503444310000000003302"
+  },
+  "receiver": {
+    "address": "00000 CHAI WAN, HK (HONG KONG)"
+  },
+  "ship_to": {
+    "name": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.",
+    "address": "WING NING LANE, WANG TOI SHAN, 291 00000 YUEN LONG, HK (HONG KONG)"
+  },
+  "invoice": {
+    "id": "2023/1400001798",
+    "date": "2023-01-31",
+    "due_date": "2023-04-01",
+    "carrier": "Sea",
+    "payment_terms": "BT 60 DAYS INV DATE",
+    "net_amount": 12323.60,
+    "currency": "EUR",
+    "total_amount": 12323.60,
+    "type": "invoice_statement"
+  },
+  "line_items": [
+    {
+      "description": "External bath mixer with automatic bath/shower",
+      "unit_price": 241.64,
+      "quantity": 51,
+      "amount": 12323.60
+    },
+    {
+      "unit_price": 241.64,
+      "quantity": 51,
+      "amount": 12323.60
+    }
+  ]
+}

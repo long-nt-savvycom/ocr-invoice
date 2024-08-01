@@ -1,0 +1,200 @@
+{
+  "supplier": {
+    "name": "Roca Sanitaryware Limited",
+    "address": "Unit 901, 148 Electric Road, North Point, Postal Code: 999077",
+    "phone": "2506 2438"
+  },
+  "receiver": {
+    "name": "B.S.C. COLOURLIVING LIMITED",
+    "phone": "2510 2665",
+    "tax_id": "07498199-000-09-16-4"
+  },
+  "invoice": {
+    "id": "92266717",
+    "date": "2023-10-27",
+    "type": "invoice_statement",
+    "currency": "EUR",
+    "payment_terms": "90 days",
+    "net_amount": "46,006.34",
+    "total_amount": "46,006.34",
+    "delivery_date": "2023-10-27"
+  },
+  "line_items": [
+    {
+      "description": "INSIGNIA BAS MIX BLT IN SHINY BLACK",
+      "unit_price": "181.38",
+      "amount": "1,088.26",
+      "quantity": "6",
+      "unit": "PC",
+      "product_code": ["000040", "A5A353ACNO"]
+    },
+    {
+      "description": "INSIGNIA BUILT-IN BASIN MIXER (ROSE GOLD)",
+      "unit_price": "233.79",
+      "amount": "1,402.76",
+      "quantity": "6",
+      "unit": "PC",
+      "product_code": ["000080", "A5A353ARGO"]
+    },
+    {
+      "description": "KAUAI BT 1600X750 FS WHTE",
+      "unit_price": "932.40",
+      "amount": "1,864.80",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000180", "A248617000"]
+    },
+    {
+      "description": "ONA BASIN MIXER, W/POP-UP-PAINTING BLACK",
+      "unit_price": "94.94",
+      "amount": "949.41",
+      "quantity": "10",
+      "unit": "PC",
+      "product_code": ["000230", "A5A3A9ENBO"]
+    },
+    {
+      "description": "FLEX 1.70M ANTI-TORSION SHOWER HOSE",
+      "unit_price": "18.46",
+      "amount": "92.29",
+      "quantity": "5",
+      "unit": "PC",
+      "product_code": ["000260", "A5B3850NMO"]
+    },
+    {
+      "description": "MAUI STONEX BATHTUB 1500X700",
+      "unit_price": "981.35",
+      "amount": "7,850.81",
+      "quantity": "8",
+      "unit": "PC",
+      "product_code": ["000270", "A248499000"]
+    },
+    {
+      "description": "MAUI ROUND BT 1500X700 FS WHBG",
+      "unit_price": "1,475.90",
+      "amount": "2,951.80",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000350", "A2484990B0"]
+    },
+    {
+      "description": "BT RAINA 1590X790X590 FS WHBG",
+      "unit_price": "1,872.80",
+      "amount": "3,745.60",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000370", "A2484660BO"]
+    },
+    {
+      "description": "BT ARIANE 1650X750 FS STONEX WHOX",
+      "unit_price": "1,886.41",
+      "amount": "3,772.82",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000400", "A2484700X0"]
+    },
+    {
+      "description": "KAUAI BT 1600X750 FS WHTE",
+      "unit_price": "740.00",
+      "amount": "1,480.00",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000401", "A248617000"]
+    },
+    {
+      "description": "MAUI ROUND BT 1500X700 FS WHOX",
+      "unit_price": "1,171.35",
+      "amount": "2,342.70",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000402", "A2484990X0"]
+    },
+    {
+      "description": "MAUI ROUND BT 1500X700 FS WHBG",
+      "unit_price": "1,171.35",
+      "amount": "2,342.70",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000403", "A2484990B0"]
+    },
+    {
+      "description": "BT RAINA 1590X790X590 FS WHBG",
+      "unit_price": "1,486.35",
+      "amount": "2,972.70",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000404", "A2484660B0"]
+    },
+    {
+      "description": "BT ARIANE 1650X750 FS STONEX WHBG",
+      "unit_price": "1,497.15",
+      "amount": "2,994.30",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000405", "A2484700B0"]
+    },
+    {
+      "description": "BT ARIANE 1650X750 FS STONEX WHOX",
+      "unit_price": "1,497.15",
+      "amount": "2,994.30",
+      "quantity": "2",
+      "unit": "PC",
+      "product_code": ["000406", "A2484700XO"]
+    },
+    {
+      "description": "SHOWER ARM 200MM-TIT. BLACK",
+      "unit_price": "42.49",
+      "amount": "42.49",
+      "quantity": "1",
+      "unit": "PC",
+      "product_code": ["000407", "A5B0550CNO"]
+    },
+    {
+      "description": "SHOWER SUPPORT W/ INLET -ROSE GOLD",
+      "unit_price": "28.70",
+      "amount": "114.80",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["A5B5250RGO"]
+    },
+    {
+      "description": "SHOWER SUPPORT W/ WATER",
+      "unit_price": "27.50",
+      "amount": "110.00",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["A5B5250NMO"]
+    },
+    {
+      "description": "A5A029ERGO INLET (BRUSHED BL)",
+      "unit_price": "80.45",
+      "amount": "321.80",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["000426", "A5A3A9ENBO"]
+    },
+    {
+      "description": "A5A3A9ENBO",
+      "unit_price": "75.35",
+      "amount": "301.40",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["000427"]
+    },
+    {
+      "description": "FLEX 1.70M ANTI-TORSION SHOWER HOSE",
+      "unit_price": "14.65",
+      "amount": "58.60",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["A5B3850CNO"]
+    },
+    {
+      "description": "STICK HANDSHOWER 1F -BRU. TIT. BLACK",
+      "unit_price": "30.45",
+      "amount": "121.80",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": ["A5B0550CNO"]
+    }
+  ]
+}

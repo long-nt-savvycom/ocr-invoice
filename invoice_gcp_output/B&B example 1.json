@@ -1,0 +1,99 @@
+{
+  "supplier": {
+    "name": "B&B ITALIA S.p.A.",
+    "tax_id": "IT07122350965",
+    "address": "Unit B1, 27/F., TML Tower, 3 Hoi Shing Road, Tsuen Wan, New Territories, Hong Kong",
+    "registration": "1937257",
+    "phone": "+39 031 705111",
+    "email": "info@babitacia.com",
+    "website": "www.bebitada.com",
+    "iban": "IT16X0100510900000000003515"
+  },
+  "receiver": {
+    "name": "BSC COLOURLIVING LIMITED",
+    "tax_id": "07498199",
+    "phone": "2510 2485",
+    "address": "19 / F SINO FAVOUR C.1 ON YIP ST.CHAI WAN HONG KONG Hong Kong"
+  },
+  "remit_to": {
+    "address": "333, LOCKHART ROAD WAN CHAI HONG KONG Hong Kong 19/F SINO FAVOUR C.1 ON YIP ST.CHAI WAN HONG KONG Hong Kong"
+  },
+  "invoice": {
+    "id": "2368339",
+    "type": "air_travel_statement",
+    "currency": "EUR",
+    "date": "2023-05-12",
+    "due_date": "2023-12-20",
+    "purchase_order": "80414432",
+    "total_amount": "285.56"
+  },
+  "line_items": [
+    {
+      "description": "CUC CONF CUSCINO SCHIEN DM55C DAMBO",
+      "quantity": "2.00",
+      "unit": "NR",
+      "amount": "285.56",
+      "net_amount": "285.56"
+    },
+    {
+      "description": "CUC CONF CUSCINO SCHIEN DM55C DAMBO COVER",
+      "quantity": "2.00",
+      "unit": "NR",
+      "amount": "285.56"
+    },
+    {
+      "description": "BAMBOLETTO BED QUEEN SIZE LBL153",
+      "product_code": "LBL153-00889548",
+      "quantity": "1.00",
+      "unit": "NR",
+      "amount": "710.27",
+      "unit_price": "710.27"
+    },
+    {
+      "description": "COVER BEND-SOFA CENTR. EL. B164CR",
+      "quantity": "1.00",
+      "unit": "NR",
+      "amount": "422.92",
+      "unit_price": "422.92"
+    },
+    {
+      "description": "SPESE EM PACKAGING COSTS FOR ABROAD VNDT",
+      "quantity": "1.00",
+      "unit": "NR",
+      "amount": "97.08",
+      "unit_price": "97.08"
+    },
+    {
+      "description": "ANTICIPO/Down payment invoice N.2366284#18-SET-23",
+      "amount": "-1,281.97"
+    },
+    {
+      "description": "BUILT-IN HANDLE TYPE F2",
+      "product_code": "BKMF2-00584740",
+      "quantity": "1.00",
+      "unit": "NR",
+      "amount": "71.24",
+      "unit_price": "71.24"
+    },
+    {
+      "description": "BACKSTAGE PACCO ACCESSORI PACBKOO",
+      "quantity": "1.00",
+      "amount": "710.27",
+      "unit_price": "710.27"
+    }
+  ],
+  "extra_amounts": [
+    {
+      "description": "Packaging Costs",
+      "amount": "97.08"
+    },
+    {
+      "description": "Down Payment",
+      "amount": "-1,281.97"
+    }
+  ],
+  "totals": {
+    "net": "285.56",
+    "gross": "285.56"
+  }
+}

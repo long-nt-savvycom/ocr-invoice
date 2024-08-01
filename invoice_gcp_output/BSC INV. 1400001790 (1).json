@@ -1,0 +1,93 @@
+{
+  "supplier": {
+    "name": ["Gessi SpA", "Gessi S.p.A."],
+    "phone": ["+39 0163 454111", "0163 454111"],
+    "address": ["13037 Serravalle Sesia (VC) Italy", "Parco Gessi 13037 Serravalle Sesia VC Italy"],
+    "email": "gessi@gessi.it",
+    "website": "www.gessi.com",
+    "tax_id": "IT02235360027",
+    "iban": "IT92A0503444310000000003302"
+  },
+  "payment_terms": "BT 60 DAYS INV DATE",
+  "currency": "EU",
+  "invoice_type": "invoice_statement",
+  "invoice_id": "2023/ 1400001790",
+  "invoice_date": "31/01/2023",
+  "due_date": "01.04.23",
+  "carrier": "Sea",
+  "ship_to": {
+    "name": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.",
+    "address": "WING NING LANE, WANG TOI SHAN, 291 00000 YUEN LONG HK (HONG KONG)"
+  },
+  "line_items": [
+    {
+      "quantity": 50,
+      "unit_price": 174.2,
+      "amount": 8710,
+      "description": "Rotating sink mixer with extractable double jet handshower Chrome (OXYGENE SIDE LEVER) EAN: 8056329177123 EU CN: 84818011"
+    },
+    {
+      "quantity": 50,
+      "unit_price": 174.2,
+      "amount": 8710,
+      "product_code": "50317",
+      "description": "Rotating sink mixer with extractable double jet handshower Chrome (OXYGENE SIDE LEVER) EAN: 8056329177123"
+    },
+    {
+      "quantity": 50,
+      "unit_price": 120.7,
+      "amount": 6035.04,
+      "description": "Sliding rail with antilimestone handshower and 1,50 m flexible hose. Warm Bronze Br. PVD (RILIEVO) EAN: 8056329030114 EU CN: 84248970 TOT.DELIVERY DOCUMENT 1002011118/2023"
+    },
+    {
+      "quantity": 726,
+      "unit_price": 120.7,
+      "amount": 6035.04,
+      "description": "Sliding rail with antilimestone handshower and 1,50 m flexible hose. Warm Bronze Br. PVD (RILIEVO) EAN: 8056329030114 EU CN: 84248970"
+    },
+    {
+      "quantity": 50,
+      "unit_price": 277.52,
+      "amount": 13875.84,
+      "description": "External bath mixer with automatic bath/shower diverter Warm Bronze Br. PVD (VIA MANZONI)"
+    },
+    {
+      "quantity": 50,
+      "unit_price": 241.64,
+      "amount": 12081.96,
+      "description": "External bath mixer with automatic bath/shower diverter Warm Bronze Br. PVD (VIA MANZONI) EAN: 8056603445528"
+    },
+    {
+      "quantity": 121,
+      "unit_price": 100.74,
+      "amount": 12189.83,
+      "description": "Basin mixer, flexible connections, without waste Warm Bronze Br. PVD (VIA MANZONI)"
+    },
+    {
+      "quantity": 70,
+      "unit_price": 105.97,
+      "amount": 7417.87,
+      "description": "External parts mixer one-way diverter Warm Bronze Br. PVD (VIA MANZONI)"
+    },
+    {
+      "quantity": 50,
+      "unit_price": 100,
+      "amount": 5000,
+      "description": "Sliding rail with antilimestone handshower, 1,50 m flexible hoseand water outlet Warm Bronze Br. PVD (EMPORIO SHOWER) EAN: 8056329534797 EU CN: 84248970"
+    },
+    {
+      "description": "COSTS OF CUSTOM OPERATIONS",
+      "amount": 35
+    },
+    {
+      "quantity": 400,
+      "amount": 400
+    },
+    {
+      "quantity": 741,
+      "amount": 741
+    }
+  ],
+  "net_amount": 183649.02,
+  "total_amount": 183649.02
+}

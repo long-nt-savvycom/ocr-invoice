@@ -1,0 +1,218 @@
+{
+    "Invoice_1": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": ""
+            },
+            "confidence": 0.885
+        },
+        "CustomerAddressRecipient": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.888
+        },
+        "CustomerId": {
+            "value": "2200174",
+            "confidence": 0.983
+        },
+        "CustomerName": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.888
+        },
+        "CustomerTaxId": {
+            "value": "07498199-000-09-16-4",
+            "confidence": 0.66
+        },
+        "InvoiceDate": {
+            "value": "2023-11-16",
+            "confidence": 0.939
+        },
+        "InvoiceId": {
+            "value": "92271646",
+            "confidence": 0.939
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 469.45,
+                "symbol": "USD"
+            },
+            "confidence": 0.927
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.898
+                },
+                "Description": {
+                    "value": "SENSOR WINDOW EURET",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "2EU02010R151",
+                    "confidence": 0.884
+                },
+                "Quantity": {
+                    "value": 3.0,
+                    "confidence": 0.877
+                },
+                "Unit": {
+                    "value": "PC",
+                    "confidence": 0.717
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 0.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 28.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.918
+                },
+                "Description": {
+                    "value": "PANEL PLATE EURET",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "2EU02010N193",
+                    "confidence": 0.899
+                },
+                "Quantity": {
+                    "value": 3.0,
+                    "confidence": 0.879
+                },
+                "Unit": {
+                    "value": "PC",
+                    "confidence": 0.72
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 9.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.928
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 328.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.887
+                },
+                "Description": {
+                    "value": "DRV PCB BS23 BAS 110-220V 1200W\n2SENSOR",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "WKSP540040020A",
+                    "confidence": 0.873
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.88
+                },
+                "Unit": {
+                    "value": "PC",
+                    "confidence": 0.717
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 65.72,
+                        "symbol": null
+                    },
+                    "confidence": 0.886
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 94.75,
+                        "symbol": null
+                    },
+                    "confidence": 0.886
+                },
+                "Description": {
+                    "value": "SENSOR UNIT SENTRONIC",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "2EU03100N029",
+                    "confidence": 0.875
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.874
+                },
+                "Unit": {
+                    "value": "PC",
+                    "confidence": 0.72
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 18.95,
+                        "symbol": null
+                    },
+                    "confidence": 0.886
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "Monthly T/T 90 days",
+            "confidence": 0.888
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 453.95,
+                "symbol": "USD"
+            },
+            "confidence": 0.93
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "148",
+                "po_box": null,
+                "road": "Electric RoadNorth Point",
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "148 Electric RoadNorth Point Unit 901"
+            },
+            "confidence": 0.887
+        },
+        "VendorAddressRecipient": {
+            "value": "Roca Sanitaryware Limited",
+            "confidence": 0.921
+        },
+        "VendorName": {
+            "value": "Roca",
+            "confidence": 0.985
+        },
+        "PaymentDetails": [
+            {
+                "SWIFT": {
+                    "value": "HSBCHKHHHKH",
+                    "confidence": 0.878
+                }
+            }
+        ]
+    }
+}

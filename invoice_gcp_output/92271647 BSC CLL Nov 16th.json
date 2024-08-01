@@ -1,0 +1,33 @@
+{
+  "supplier": {
+    "name": "Roca Sanitaryware Limited",
+    "address": "Unit 901, 148 Electric Road, North Point, Postal Code: 999077",
+    "phone": "2506 2438"
+  },
+  "receiver": {
+    "name": "B.S.C. COLOURLIVING LIMITED",
+    "phone": "2510 2665",
+    "tax_id": "07498199-000-09-16-4"
+  },
+  "invoice": {
+    "id": "92271647",
+    "date": "2023-11-16",
+    "type": "invoice_statement",
+    "currency": "USD",
+    "payment_terms": "90 days",
+    "net_amount": "284.25",
+    "total_amount": "284.25"
+  },
+  "line_items": [
+    {
+      "description": "SENSOR UNIT SENTRONIC",
+      "unit_price": "18.95",
+      "amount": "284.25",
+      "quantity": "15",
+      "unit": "PC"
+    }
+  ],
+  "remit_to": {
+    "name": "Roca Sanitaryware Limited"
+  }
+}

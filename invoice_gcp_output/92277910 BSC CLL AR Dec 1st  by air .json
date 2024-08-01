@@ -1,0 +1,41 @@
+{
+  "supplier": {
+    "name": "Roca Sanitaryware Limited",
+    "address": "Unit 901, 148 Electric Road, North Point",
+    "phone": "2506 2438"
+  },
+  "receiver": {
+    "name": "B.S.C. COLOURLIVING LIMITED",
+    "phone": "2510 2665",
+    "tax_id": "07498199-000-09-16-4"
+  },
+  "invoice": {
+    "id": "92277910",
+    "date": "2023-12-01",
+    "type": "invoice_statement",
+    "currency": "EUR",
+    "payment_terms": "90 days",
+    "net_amount": "6962.80",
+    "total_tax_amount": "418.83",
+    "total_amount": "7381.63"
+  },
+  "remit_to": {
+    "name": "Roca Sanitaryware Limited"
+  },
+  "line_items": [
+    {
+      "description": "Sales Order: 893091 / Your Reference : 106266-D76 (PO No.)"
+    },
+    {
+      "description": "ARMANI BUILT-IN W/P BATH 1800X800 WHTE",
+      "unit_price": "6962.80",
+      "quantity": "1",
+      "unit": "PC",
+      "amount": "6962.80",
+      "product_code": [
+        "000010",
+        "A24824300G"
+      ]
+    }
+  ]
+}

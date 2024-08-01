@@ -1,0 +1,286 @@
+{
+    "Invoice_1": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": ""
+            },
+            "confidence": 0.886
+        },
+        "CustomerAddressRecipient": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.888
+        },
+        "CustomerId": {
+            "value": "2200174",
+            "confidence": 0.937
+        },
+        "CustomerName": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.888
+        },
+        "CustomerTaxId": {
+            "value": "07498199-000-09-16-4",
+            "confidence": 0.647
+        },
+        "InvoiceDate": {
+            "value": "2023-11-16",
+            "confidence": 0.942
+        },
+        "InvoiceId": {
+            "value": "92271918",
+            "confidence": 0.942
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 24002.6,
+                "symbol": "HKD"
+            },
+            "confidence": 0.917
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1229.04,
+                        "symbol": null
+                    },
+                    "confidence": 0.911
+                },
+                "Description": {
+                    "value": "HOTEL'S - ROUND DOUBLE ROBE HOOK",
+                    "confidence": 0.915
+                },
+                "ProductCode": {
+                    "value": "A817571C00",
+                    "confidence": 0.895
+                },
+                "Quantity": {
+                    "value": 10.0,
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 122.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.912
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 804.96,
+                        "symbol": null
+                    },
+                    "confidence": 0.887
+                },
+                "Description": {
+                    "value": "HOTEL' S-ROUND DOUBLE ROBE HOOK,\nMATT B",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "A817571C40",
+                    "confidence": 0.886
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 160.99,
+                        "symbol": null
+                    },
+                    "confidence": 0.886
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 18472.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.932
+                },
+                "Description": {
+                    "value": "KHROMA FU900-CITY OAK , BLACK\nFRAME",
+                    "confidence": 0.886
+                },
+                "ProductCode": {
+                    "value": "A857526496",
+                    "confidence": 0.887
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.853
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 4618.23,
+                        "symbol": null
+                    },
+                    "confidence": 0.892
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 341.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.893
+                },
+                "Description": {
+                    "value": "HOTEL'S - ROUND DOUBLE ROBE HOOK",
+                    "confidence": 0.895
+                },
+                "ProductCode": {
+                    "value": "A817571C00",
+                    "confidence": 0.891
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.856
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 85.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.886
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 447.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.938
+                },
+                "Description": {
+                    "value": "HOTEL' S-ROUND DOUBLE ROBE HOOK,\nMATT B",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A817571C40",
+                    "confidence": 0.887
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.862
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 111.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.955
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1883.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.887
+                },
+                "Description": {
+                    "value": "ONA UNIK 2 DO FU 1000MM, MATT GREEN",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A857768513",
+                    "confidence": 0.887
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 941.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.903
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 823.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.887
+                },
+                "Description": {
+                    "value": "ONA UNIK 2 DO FU 800MM , MATT GREEN",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A857767513",
+                    "confidence": 0.886
+                },
+                "Quantity": {
+                    "value": 1.0,
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 823.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "Monthly T/T 90 days",
+            "confidence": 0.907
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 24002.6,
+                "symbol": "HKD"
+            },
+            "confidence": 0.927
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "148",
+                "po_box": null,
+                "road": "Electric RoadNorth Point",
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "148 Electric RoadNorth Point Unit 901"
+            },
+            "confidence": 0.888
+        },
+        "VendorAddressRecipient": {
+            "value": "Roca Sanitaryware Limited",
+            "confidence": 0.926
+        },
+        "VendorName": {
+            "value": "Roca",
+            "confidence": 0.941
+        },
+        "PaymentDetails": [
+            {
+                "SWIFT": {
+                    "value": "HSBCHKHHHKH",
+                    "confidence": 0.868
+                }
+            }
+        ]
+    }
+}

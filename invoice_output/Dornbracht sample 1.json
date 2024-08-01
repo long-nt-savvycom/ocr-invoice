@@ -1,0 +1,181 @@
+{
+    "Invoice_3": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "19 TH"
+            },
+            "confidence": 0.507
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO. LTD.\nB.S.C. BUILDING MATERIALS\nSUPPLY LTD.",
+            "confidence": 0.204
+        },
+        "CustomerId": {
+            "value": "185909",
+            "confidence": 0.929
+        },
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO. LTD.\nB.S.C. BUILDING MATERIALS\nSUPPLY LTD.",
+            "confidence": 0.204
+        },
+        "InvoiceDate": {
+            "value": "2023-02-08",
+            "confidence": 0.937
+        },
+        "InvoiceId": {
+            "value": "PI-0133264",
+            "confidence": 0.685
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 5.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                },
+                "Description": {
+                    "value": "09141014290",
+                    "confidence": 0.728
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.724
+                },
+                "Unit": {
+                    "value": "pc",
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 2.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 36.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                },
+                "Description": {
+                    "value": "09311102690\nGrooved x12 mm, SPARE PARTS,",
+                    "confidence": 0.088
+                },
+                "Quantity": {
+                    "value": 13.0,
+                    "confidence": 0.82
+                },
+                "Unit": {
+                    "value": "pc",
+                    "confidence": 0.852
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 2.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.849
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "DE86 4458 0070 0703 3229 00",
+                    "confidence": 0.785
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.925
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "DE86445800700703322900",
+                    "confidence": 0.773
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.63
+                }
+            },
+            {
+                "IBAN": {
+                    "value": "DE86 4458 0070 0703 3229 00",
+                    "confidence": 0.781
+                },
+                "SWIFT": {
+                    "value": "DRESDEFF445",
+                    "confidence": 0.771
+                }
+            }
+        ],
+        "PurchaseOrder": {
+            "value": "Rickson email",
+            "confidence": 0.417
+        },
+        "ServiceAddressRecipient": {
+            "value": "CO.",
+            "confidence": 0.301
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "19 TH"
+            },
+            "confidence": 0.817
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS\nSUPPLY CO., LTD.",
+            "confidence": 0.88
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "6",
+                "po_box": null,
+                "road": "K\u00f6bbingser M\u00fchle",
+                "city": "Iserlohn",
+                "state": null,
+                "postal_code": "D-58640",
+                "country_region": null,
+                "street_address": "6 K\u00f6bbingser M\u00fchle"
+            },
+            "confidence": 0.847
+        },
+        "VendorAddressRecipient": {
+            "value": "Dornbracht AG & Co. KG",
+            "confidence": 0.883
+        },
+        "VendorName": {
+            "value": "DORN\nBRACHT",
+            "confidence": 0.789
+        },
+        "PaymentTerm": {
+            "value": "60 days net\n10 days 3% discount",
+            "confidence": 0.575
+        },
+        "VendorTaxId": {
+            "value": "32857110245",
+            "confidence": 0.416
+        }
+    }
+}

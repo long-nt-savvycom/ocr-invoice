@@ -1,0 +1,92 @@
+{
+    "Invoice_4": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": "HONG KONG",
+                "state": null,
+                "postal_code": null,
+                "country_region": "HK",
+                "street_address": ""
+            },
+            "confidence": 0.084
+        },
+        "CustomerAddressRecipient": {
+            "value": "BSC COLOUR LIVING LTD",
+            "confidence": 0.048
+        },
+        "CustomerName": {
+            "value": "BSC COLOUR LIVING LTD",
+            "confidence": 0.048
+        },
+        "InvoiceDate": {
+            "value": "2023-12-08",
+            "confidence": 0.81
+        },
+        "InvoiceId": {
+            "value": "RAI-22083616",
+            "confidence": 0.541
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "27/F., TML Tower, 3",
+                "po_box": null,
+                "road": "Hoi Shing Road",
+                "city": "Tsuen Wan",
+                "state": "New Territories",
+                "postal_code": null,
+                "country_region": "Hong Kong",
+                "street_address": "27/F., TML Tower, 3 Hoi Shing Road Unit B1"
+            },
+            "confidence": 0.774
+        },
+        "VendorName": {
+            "value": "Cargo Compass\n(Hong Kong) Ltd",
+            "confidence": 0.646
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 21.0,
+                        "symbol": null
+                    },
+                    "confidence": null
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 31.0,
+                        "symbol": null
+                    },
+                    "confidence": null
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 129.0,
+                        "symbol": null
+                    },
+                    "confidence": null
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 128.0,
+                        "symbol": null
+                    },
+                    "confidence": null
+                }
+            }
+        ],
+        "VendorAddressRecipient": {
+            "value": "CARGO COMPASS SPA",
+            "confidence": 0.012
+        }
+    }
+}

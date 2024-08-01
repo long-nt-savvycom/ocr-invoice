@@ -1,0 +1,56 @@
+{
+  "supplier": {
+    "name": "Roca Sanitaryware Limited",
+    "address": "Unit 901, 148 Electric Road, North Point, Postal Code: 999077",
+    "phone": "2506 2438"
+  },
+  "receiver": {
+    "name": "B.S.C. COLOURLIVING LIMITED",
+    "phone": "2510 2665",
+    "tax_id": "07498199-000-09-16-4"
+  },
+  "invoice": {
+    "id": "92271646",
+    "date": "2023-11-16",
+    "type": "invoice_statement",
+    "currency": "USD",
+    "payment_terms": "90 days",
+    "net_amount": "453.95",
+    "total_tax_amount": "15.50",
+    "total_amount": "469.45"
+  },
+  "line_items": [
+    {
+      "description": "SENSOR WINDOW EURET",
+      "unit_price": "0.80",
+      "amount": "2.40",
+      "quantity": "3",
+      "unit": "PC"
+    },
+    {
+      "description": "PANEL PLATE EURET",
+      "unit_price": "9.40",
+      "amount": "28.20",
+      "quantity": "3",
+      "unit": "PC"
+    },
+    {
+      "description": "DRV PCB BS23 BAS 110-220V 1200W 2SENSOR",
+      "product_code": "WKSP540040020A",
+      "unit_price": "65.72",
+      "amount": "328.60",
+      "quantity": "5",
+      "unit": "PC"
+    },
+    {
+      "description": "SENSOR UNIT SENTRONIC",
+      "unit_price": "18.95",
+      "amount": "94.75",
+      "quantity": "5",
+      "unit": "PC"
+    }
+  ],
+  "remit_to": {
+    "name": "Roca Sanitaryware Limited"
+  }
+}

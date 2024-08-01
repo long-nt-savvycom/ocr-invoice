@@ -1,0 +1,83 @@
+{
+  "supplier": {
+    "name": "Roca Sanitaryware Limited",
+    "address": "Unit 901, 148 Electric Road, North Point, Postal Code: 999077",
+    "phone": "2506 2438"
+  },
+  "receiver": {
+    "name": "B.S.C. COLOURLIVING LIMITED",
+    "phone": "2510 2665",
+    "tax_id": "07498199-000-09-16-4"
+  },
+  "invoice": {
+    "id": "92271918",
+    "date": "2023-11-16",
+    "type": "invoice_statement",
+    "currency": "HKD",
+    "payment_terms": "90 days",
+    "net_amount": "24002.60",
+    "total_tax_amount": "0.00",
+    "total_amount": "24002.60"
+  },
+  "line_items": [
+    {
+      "description": "Delivery Note: 82138946 / 2023. 11. 16 (PGI Date) Sales Order: 900374 / Your Reference: 106756-D76 1st lot CLL stock discou (PO No.)"
+    },
+    {
+      "description": "HOTEL'S ROUND DOUBLE ROBE HOOK",
+      "amount": "1229.04",
+      "unit_price": "122.90",
+      "quantity": "10",
+      "unit": "PC",
+      "product_code": "A817571C00"
+    },
+    {
+      "description": "HOTEL'S-ROUND DOUBLE ROBE HOOK, MATT B",
+      "amount": "804.96",
+      "unit_price": "160.99",
+      "quantity": "5",
+      "unit": "PC"
+    },
+    {
+      "description": "KHROMA FU900-CITY OAK, BLACK FRAME",
+      "amount": "18472.90",
+      "unit_price": "4618.23",
+      "quantity": "4",
+      "unit": "PC"
+    },
+    {
+      "description": "HOTEL'S ROUND DOUBLE ROBE HOOK",
+      "amount": "341.40",
+      "unit_price": "85.35",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": "A817571C00"
+    },
+    {
+      "description": "HOTEL' S-ROUND DOUBLE ROBE HOOK, MATT B",
+      "amount": "447.20",
+      "unit_price": "111.80",
+      "quantity": "4",
+      "unit": "PC",
+      "product_code": "A817571C40"
+    },
+    {
+      "amount": "1883.20",
+      "unit_price": "941.60",
+      "quantity": "2",
+      "unit": "PC"
+    },
+    {
+      "description": "ONA UNIK 2 DO FU 800MM, MATT GREEN",
+      "amount": "823.90",
+      "unit_price": "823.90",
+      "quantity": "1",
+      "unit": "PC",
+      "product_code": "A857767513"
+    }
+  ],
+  "remit_to": {
+    "name": "Roca Sanitaryware Limited"
+  },
+  "delivery_date": "2023-11-16"
+}

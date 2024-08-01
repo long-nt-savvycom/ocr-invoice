@@ -1,0 +1,54 @@
+{
+    "Invoice_1": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": ""
+            },
+            "confidence": 0.587
+        },
+        "CustomerAddressRecipient": {
+            "value": "BSC BUILDING MATERIALS SUPPLY",
+            "confidence": 0.813
+        },
+        "CustomerName": {
+            "value": "BSC BUILDING MATERIALS SUPPLY",
+            "confidence": 0.813
+        },
+        "InvoiceDate": {
+            "value": "2023-01-28",
+            "confidence": 0.799
+        },
+        "InvoiceId": {
+            "value": "RAI-22083192",
+            "confidence": 0.541
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "27/F., TML Tower, 3",
+                "po_box": null,
+                "road": "Hoi Shing Road",
+                "city": "Tsuen Wan",
+                "state": "New Territories",
+                "postal_code": null,
+                "country_region": "Hong Kong",
+                "street_address": "27/F., TML Tower, 3 Hoi Shing Road Unit B1"
+            },
+            "confidence": 0.705
+        },
+        "VendorName": {
+            "value": "Cargo Compass\n(Hong Kong) Ltd",
+            "confidence": 0.673
+        },
+        "VendorAddressRecipient": {
+            "value": "CARGO COMPASS SPA",
+            "confidence": null
+        }
+    }
+}

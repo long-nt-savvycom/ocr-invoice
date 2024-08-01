@@ -1,0 +1,122 @@
+{
+    "Invoice_1": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": ""
+            },
+            "confidence": 0.885
+        },
+        "CustomerAddressRecipient": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.887
+        },
+        "CustomerId": {
+            "value": "2200174",
+            "confidence": 0.927
+        },
+        "CustomerName": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.887
+        },
+        "CustomerTaxId": {
+            "value": "07498199-000-09-16-4",
+            "confidence": 0.429
+        },
+        "InvoiceDate": {
+            "value": "2023-11-16",
+            "confidence": 0.941
+        },
+        "InvoiceId": {
+            "value": "92271647",
+            "confidence": 0.943
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 284.25,
+                "symbol": "USD"
+            },
+            "confidence": 0.93
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 284.25,
+                        "symbol": null
+                    },
+                    "confidence": 0.915
+                },
+                "Description": {
+                    "value": "SENSOR UNIT SENTRONIC",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "2EU03100N029",
+                    "confidence": 0.853
+                },
+                "Quantity": {
+                    "value": 15.0,
+                    "confidence": 0.885
+                },
+                "Unit": {
+                    "value": "PC",
+                    "confidence": 0.49
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 18.95,
+                        "symbol": null
+                    },
+                    "confidence": 0.899
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "SWIFT": {
+                    "value": "HSBCHKHHHKH",
+                    "confidence": 0.817
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "Monthly T/T 90 days",
+            "confidence": 0.889
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 284.25,
+                "symbol": "USD"
+            },
+            "confidence": 0.936
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": "148",
+                "po_box": null,
+                "road": "Electric RoadNorth Point",
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "148 Electric RoadNorth Point Unit 901"
+            },
+            "confidence": 0.888
+        },
+        "VendorAddressRecipient": {
+            "value": "Roca Sanitaryware Limited",
+            "confidence": 0.926
+        },
+        "VendorName": {
+            "value": "Roca",
+            "confidence": 0.94
+        }
+    }
+}

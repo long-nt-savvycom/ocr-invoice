@@ -1,0 +1,143 @@
+{
+    "Invoice_1": {
+        "CustomerName": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.712
+        },
+        "InvoiceId": {
+            "value": "2023 /\n1400004986",
+            "confidence": 0.686
+        },
+        "VendorAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": "SERRAVALLE SESIA",
+                "state": null,
+                "postal_code": "13037",
+                "country_region": "ITALY",
+                "street_address": ""
+            },
+            "confidence": 0.916
+        },
+        "VendorAddressRecipient": {
+            "value": "GESSI S.P.A.",
+            "confidence": 0.953
+        },
+        "VendorName": {
+            "value": "GESSI",
+            "confidence": 0.846
+        },
+        "CustomerAddress": {
+            "value": {
+                "house_number": "00000",
+                "po_box": null,
+                "road": "CHAI WAN HK",
+                "city": "HONG",
+                "state": "KONG",
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "00000 CHAI WAN HK"
+            },
+            "confidence": 0.821
+        },
+        "CustomerAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD., ATT MS JOEY/MS\nYIP",
+            "confidence": 0.712
+        },
+        "CustomerId": {
+            "value": "1000000903",
+            "confidence": 0.927
+        },
+        "DueDate": {
+            "value": "2023-05-19",
+            "confidence": 0.42
+        },
+        "InvoiceDate": {
+            "value": "2023-03-20",
+            "confidence": 0.941
+        },
+        "InvoiceTotal": {
+            "value": {
+                "amount": 503.71,
+                "symbol": "\u20ac"
+            },
+            "confidence": 0.709
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 503.71,
+                        "symbol": null
+                    },
+                    "confidence": 0.92
+                },
+                "Description": {
+                    "value": "Basin mixer, flexible connections, without waste\nWarm Bronze Br. PVD (VIA MANZONI)\nEAN: 8056603445498\nEU CN:\n84818011",
+                    "confidence": 0.516
+                },
+                "ProductCode": {
+                    "value": "38605\n726",
+                    "confidence": 0.745
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.903
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 100.74,
+                        "symbol": null
+                    },
+                    "confidence": 0.919
+                }
+            }
+        ],
+        "PaymentDetails": [
+            {
+                "IBAN": {
+                    "value": "IT92A0503444310000000003302",
+                    "confidence": 0.933
+                },
+                "SWIFT": {
+                    "value": "BAPPIT21C10",
+                    "confidence": 0.796
+                }
+            }
+        ],
+        "PaymentTerm": {
+            "value": "BT 60 DAYS INV DATE",
+            "confidence": 0.644
+        },
+        "ShippingAddress": {
+            "value": {
+                "house_number": "291",
+                "po_box": null,
+                "road": "WING NING LANE, WANG TOI SHAN",
+                "city": "YUEN LONG",
+                "state": "HONG KONG",
+                "postal_code": "00000",
+                "country_region": "HK",
+                "street_address": "291 WING NING LANE, WANG TOI SHAN"
+            },
+            "confidence": 0.834
+        },
+        "ShippingAddressRecipient": {
+            "value": "B.S.C. BUILDING MATERIALS SUPPLY CO LTD.,",
+            "confidence": 0.886
+        },
+        "SubTotal": {
+            "value": {
+                "amount": 503.71,
+                "symbol": null
+            },
+            "confidence": 0.596
+        },
+        "VendorTaxId": {
+            "value": "IT02235360027",
+            "confidence": 0.647
+        }
+    }
+}

@@ -1,0 +1,988 @@
+{
+    "Invoice_33": {
+        "CustomerAddress": {
+            "value": {
+                "house_number": null,
+                "po_box": null,
+                "road": null,
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": ""
+            },
+            "confidence": 0.885
+        },
+        "CustomerAddressRecipient": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.887
+        },
+        "CustomerId": {
+            "value": "2200174",
+            "confidence": 0.937
+        },
+        "CustomerName": {
+            "value": "B. S. C. COLOURLIVING LIMITED",
+            "confidence": 0.887
+        },
+        "CustomerTaxId": {
+            "value": "07498199-000-09-16-4",
+            "confidence": 0.569
+        },
+        "InvoiceDate": {
+            "value": "2023-10-27",
+            "confidence": 0.941
+        },
+        "InvoiceId": {
+            "value": "92266717",
+            "confidence": 0.942
+        },
+        "Items": [
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1088.26,
+                        "symbol": null
+                    },
+                    "confidence": 0.8
+                },
+                "Description": {
+                    "value": "INSIGNIA BAS MIX BLT IN SHINY\nBLACK",
+                    "confidence": 0.852
+                },
+                "ProductCode": {
+                    "value": "A5A353ACN0",
+                    "confidence": 0.781
+                },
+                "Quantity": {
+                    "value": 6.0,
+                    "confidence": 0.293
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 181.38,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1402.76,
+                        "symbol": null
+                    },
+                    "confidence": 0.8
+                },
+                "Description": {
+                    "value": "INSIGNIA BUILT-IN BASIN MIXER (ROSE\nGOLD)",
+                    "confidence": 0.846
+                },
+                "ProductCode": {
+                    "value": "A5A353ARG0",
+                    "confidence": 0.78
+                },
+                "Quantity": {
+                    "value": 6.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 233.79,
+                        "symbol": null
+                    },
+                    "confidence": 0.823
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1864.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.8
+                },
+                "Description": {
+                    "value": "KAUAI BT 1600X750 FS WHTE",
+                    "confidence": 0.839
+                },
+                "ProductCode": {
+                    "value": "A248617000",
+                    "confidence": 0.793
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.294
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 932.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.802
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 949.41,
+                        "symbol": null
+                    },
+                    "confidence": 0.815
+                },
+                "Description": {
+                    "value": "ONA BASIN MIXER, W/POP-UP-PAINTING\nBLACK",
+                    "confidence": 0.837
+                },
+                "ProductCode": {
+                    "value": "A5A3A9ENB0",
+                    "confidence": 0.78
+                },
+                "Quantity": {
+                    "value": 10.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 94.94,
+                        "symbol": null
+                    },
+                    "confidence": 0.802
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 92.29,
+                        "symbol": null
+                    },
+                    "confidence": 0.816
+                },
+                "Description": {
+                    "value": "FLEX 1. 70M ANTI-TORSION SHOWER\nHOSE",
+                    "confidence": 0.849
+                },
+                "ProductCode": {
+                    "value": "A5B3850NM0",
+                    "confidence": 0.853
+                },
+                "Quantity": {
+                    "value": 5.0,
+                    "confidence": 0.478
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 18.46,
+                        "symbol": null
+                    },
+                    "confidence": 0.807
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 7850.81,
+                        "symbol": null
+                    },
+                    "confidence": 0.803
+                },
+                "Description": {
+                    "value": "MAUI STONEX BATHTUB 1500X700",
+                    "confidence": 0.836
+                },
+                "ProductCode": {
+                    "value": "A248499000",
+                    "confidence": 0.792
+                },
+                "Quantity": {
+                    "value": 8.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 981.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.809
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2951.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.816
+                },
+                "Description": {
+                    "value": "MAUI ROUND BT 1500X700 FS WHBG",
+                    "confidence": 0.852
+                },
+                "ProductCode": {
+                    "value": "A2484990B0",
+                    "confidence": 0.787
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.522
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1475.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.803
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 3745.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.849
+                },
+                "Description": {
+                    "value": "BT RAINA 1590X790X590 FS WHBG",
+                    "confidence": 0.838
+                },
+                "ProductCode": {
+                    "value": "A2484660B0",
+                    "confidence": 0.816
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.479
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1872.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.81
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 3772.82,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                },
+                "Description": {
+                    "value": "BT ARIANE 1650X750 FS STONEX WHOX",
+                    "confidence": 0.852
+                },
+                "ProductCode": {
+                    "value": "A2484700X0",
+                    "confidence": 0.796
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1886.41,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 1480.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.803
+                },
+                "Description": {
+                    "value": "KAUAI BT 1600X750 FS WHTE",
+                    "confidence": 0.84
+                },
+                "ProductCode": {
+                    "value": "A248617000",
+                    "confidence": 0.792
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.377
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 740.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.801
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2342.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.811
+                },
+                "Description": {
+                    "value": "MAUI ROUND BT 1500X700 FS WHOX",
+                    "confidence": 0.851
+                },
+                "ProductCode": {
+                    "value": "A2484990X0",
+                    "confidence": 0.812
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1171.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.852
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2342.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.801
+                },
+                "Description": {
+                    "value": "MAUI ROUND BT 1500X700 FS WHBG",
+                    "confidence": 0.852
+                },
+                "ProductCode": {
+                    "value": "A2484990B0",
+                    "confidence": 0.793
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.487
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1171.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.809
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2972.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.801
+                },
+                "Description": {
+                    "value": "BT RAINA 1590X790X590 FS WHBG",
+                    "confidence": 0.838
+                },
+                "ProductCode": {
+                    "value": "A2484660B0",
+                    "confidence": 0.804
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.487
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1486.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.824
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2994.3,
+                        "symbol": null
+                    },
+                    "confidence": 0.821
+                },
+                "Description": {
+                    "value": "BT ARIANE 1650X750 FS STONEX WHBG",
+                    "confidence": 0.852
+                },
+                "ProductCode": {
+                    "value": "A2484700B0",
+                    "confidence": 0.807
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.483
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1497.15,
+                        "symbol": null
+                    },
+                    "confidence": 0.814
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 2994.3,
+                        "symbol": null
+                    },
+                    "confidence": 0.803
+                },
+                "Description": {
+                    "value": "BT ARIANE 1650X750 FS STONEX WHOX",
+                    "confidence": 0.851
+                },
+                "ProductCode": {
+                    "value": "A2484700X0",
+                    "confidence": 0.813
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.484
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 1497.15,
+                        "symbol": null
+                    },
+                    "confidence": 0.801
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 42.49,
+                        "symbol": null
+                    },
+                    "confidence": 0.802
+                },
+                "Description": {
+                    "value": "SHOWER ARM 200MM-TIT. BLACK",
+                    "confidence": 0.828
+                },
+                "ProductCode": {
+                    "value": "A5B0550CN0",
+                    "confidence": 0.784
+                },
+                "Quantity": {
+                    "value": 1.0,
+                    "confidence": 0.477
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 42.49,
+                        "symbol": null
+                    },
+                    "confidence": 0.836
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 132.5,
+                        "symbol": null
+                    },
+                    "confidence": 0.94
+                },
+                "Description": {
+                    "value": "INSIGNIA WM BATH SPT",
+                    "confidence": 0.908
+                },
+                "ProductCode": {
+                    "value": "A5A0703C00",
+                    "confidence": 0.921
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.556
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 66.25,
+                        "symbol": null
+                    },
+                    "confidence": 0.912
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 453.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                },
+                "Description": {
+                    "value": "INSIGNIA BI SH MIXER TITANIUM\nBLACK",
+                    "confidence": 0.903
+                },
+                "ProductCode": {
+                    "value": "A5A2B3ACN0",
+                    "confidence": 0.903
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.579
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 113.3,
+                        "symbol": null
+                    },
+                    "confidence": 0.919
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 566.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.921
+                },
+                "Description": {
+                    "value": "INSIGNIA BI SHOWER MIXER (ROSE\nGOLD)",
+                    "confidence": 0.903
+                },
+                "ProductCode": {
+                    "value": "A5A2B3ARG0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.637
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 141.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 575.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.916
+                },
+                "Description": {
+                    "value": "INSIGNIA BAS MIX BLT IN SHINY\nBLACK",
+                    "confidence": 0.901
+                },
+                "ProductCode": {
+                    "value": "A5A353ACN0",
+                    "confidence": 0.901
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.588
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 143.95,
+                        "symbol": null
+                    },
+                    "confidence": 0.921
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 742.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.949
+                },
+                "Description": {
+                    "value": "INSIGNIA BUILT-IN BASIN MIXER (ROSE\nGOLD)",
+                    "confidence": 0.905
+                },
+                "ProductCode": {
+                    "value": "A5A353ARG0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.664
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 185.55,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 146.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.917
+                },
+                "Description": {
+                    "value": "L SHOWER ARM 400MM-TIT. BLACK",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A5B0250CN0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.667
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 36.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.913
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 121.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.934
+                },
+                "Description": {
+                    "value": "SHOWER ARM 200MM-TIT. BLACK",
+                    "confidence": 0.909
+                },
+                "ProductCode": {
+                    "value": "A5B0550CN0",
+                    "confidence": 0.904
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.671
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 30.35,
+                        "symbol": null
+                    },
+                    "confidence": 0.913
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 714.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.914
+                },
+                "Description": {
+                    "value": "HEADSHOWER 300MM BRASS -TIT. BLACK",
+                    "confidence": 0.884
+                },
+                "ProductCode": {
+                    "value": "A5B3950CN0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.658
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 178.5,
+                        "symbol": null
+                    },
+                    "confidence": 0.916
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 852.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.947
+                },
+                "Description": {
+                    "value": "HEADSHOWER SQ 300 BRASS -TIT.\nBLACK",
+                    "confidence": 0.883
+                },
+                "ProductCode": {
+                    "value": "A5B4050CN0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.63
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 213.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.928
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 46.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.912
+                },
+                "Description": {
+                    "value": "FLEXIBLE HOSE 170CM SHINY BLACK",
+                    "confidence": 0.906
+                },
+                "ProductCode": {
+                    "value": "A5B3850CN0",
+                    "confidence": 0.903
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.566
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 11.65,
+                        "symbol": null
+                    },
+                    "confidence": 0.915
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 173.1,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                },
+                "Description": {
+                    "value": "INSIGNIA WM BATH SPT - BLACK",
+                    "confidence": 0.866
+                },
+                "ProductCode": {
+                    "value": "A5A0703CN0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.656
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 86.55,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 216.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "INSIGNIA WM BATH SPOUT - ROSE GOLD",
+                    "confidence": 0.882
+                },
+                "ProductCode": {
+                    "value": "A5A0703RG0",
+                    "confidence": 0.902
+                },
+                "Quantity": {
+                    "value": 2.0,
+                    "confidence": 0.658
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 108.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 101.2,
+                        "symbol": null
+                    },
+                    "confidence": 0.937
+                },
+                "Description": {
+                    "value": "STICK HANDSHOWER 1F -TIT. BLACK",
+                    "confidence": 0.893
+                },
+                "ProductCode": {
+                    "value": "A5B3750CN0",
+                    "confidence": 0.903
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.631
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 25.3,
+                        "symbol": null
+                    },
+                    "confidence": 0.928
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 91.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.92
+                },
+                "Description": {
+                    "value": "SHOWER SUPPORT WITH WATER INLET\n(TIT. BL",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A5B5250CN0",
+                    "confidence": 0.903
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.668
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 22.9,
+                        "symbol": null
+                    },
+                    "confidence": 0.921
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 126.4,
+                        "symbol": null
+                    },
+                    "confidence": 0.93
+                },
+                "Description": {
+                    "value": "STICK HANDSHOWER 1F -ROSE GOLD",
+                    "confidence": 0.887
+                },
+                "ProductCode": {
+                    "value": "A5B3750RG0",
+                    "confidence": 0.904
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.632
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 31.6,
+                        "symbol": null
+                    },
+                    "confidence": 0.918
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 114.8,
+                        "symbol": null
+                    },
+                    "confidence": 0.928
+                },
+                "Description": {
+                    "value": "SHOWER SUPPORT W/ INLET -ROSE GOLD",
+                    "confidence": 0.883
+                },
+                "ProductCode": {
+                    "value": "A5B5250RG0",
+                    "confidence": 0.903
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.587
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 28.7,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                }
+            },
+            {
+                "Amount": {
+                    "value": {
+                        "amount": 110.0,
+                        "symbol": null
+                    },
+                    "confidence": 0.922
+                },
+                "Description": {
+                    "value": "SHOWER SUPPORT W/ WATER",
+                    "confidence": 0.917
+                },
+                "ProductCode": {
+                    "value": "A5B5250NM0",
+                    "confidence": 0.904
+                },
+                "Quantity": {
+                    "value": 4.0,
+                    "confidence": 0.665
+                },
+                "UnitPrice": {
+                    "value": {
+                        "amount": 27.5,
+                        "symbol": null
+                    },
+                    "confidence": 0.939
+                }
+            }
+        ],
+        "VendorAddress": {
+            "value": {
+                "house_number": "148",
+                "po_box": null,
+                "road": "Electric RoadNorth Point",
+                "city": null,
+                "state": null,
+                "postal_code": null,
+                "country_region": null,
+                "street_address": "148 Electric RoadNorth Point Unit 901"
+            },
+            "confidence": 0.887
+        },
+        "VendorAddressRecipient": {
+            "value": "Roca Sanitaryware Limited",
+            "confidence": 0.925
+        },
+        "VendorName": {
+            "value": "Roca",
+            "confidence": 0.94
+        }
+    }
+}
